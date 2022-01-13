@@ -1,0 +1,13 @@
+{
+  "name": "coffeescript-async-await",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build": "coffee -c index.coffee",
+    "coffee": "coffee index.coffee"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "coffeescript": "^2.6.1"
+  }
+}
